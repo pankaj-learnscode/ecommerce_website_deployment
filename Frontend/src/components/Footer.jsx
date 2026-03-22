@@ -33,7 +33,7 @@ const Footer = () => {
                 className="text-green-400 hover:text-green-300 mx-1 cursor-pointer"
                 onClick={() =>
                   window.open(
-                    "https://your-portfolio-link.com",
+                    "https://pankajportfoliyo-orp7cbu5t-psrkrks-projects.vercel.app/",
                     "_blank",
                     "noopener,noreferrer"
                   )
